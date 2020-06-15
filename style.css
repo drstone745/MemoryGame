@@ -1,0 +1,6 @@
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    height: 810px;
+    width: 720px;
+}
